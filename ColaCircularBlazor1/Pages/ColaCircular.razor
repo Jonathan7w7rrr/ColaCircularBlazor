@@ -1,0 +1,53 @@
+﻿@page "/colacircular"
+@using ColaCircularBlazor.Modelos
+
+<h3>Cola Circular en Blazor</h3>
+
+<input @bind="nuevoElemento" placeholder="Ingrese un número" type="number" />
+<button @onclick="AgregarElemento">Encolar</button>
+<button @onclick="EliminarElemento">Desencolar</button>
+
+<p>@mensaje</p>
+
+<h4>Elementos en la Cola:</h4>
+<ul>
+    @foreach (var item in elementos)
+    {
+        <li>@item</li>
+    }
+</ul>
+
+@code {
+    private ColaCircular<int> cola = new ColaCircular<int>(5);
+    private int nuevoElemento;
+    private string mensaje = "";
+    private int[] elementos = Array.Empty<int>();
+
+    private void AgregarElemento()
+    {
+        try
+        {
+            cola.Encolar(nuevoElemento);
+            elementos = cola.ObtenerElementos();
+            mensaje = "Elemento encolado.";
+        }
+        catch (Exception ex)
+        {
+            mensaje = ex.Message;
+        }
+    }
+
+    private void EliminarElemento()
+    {
+        try
+        {
+            cola.Desencolar();
+            elementos = cola.ObtenerElementos();
+            mensaje = "Elemento desencolado.";
+        }
+        catch (Exception ex)
+        {
+            mensaje = ex.Message;
+        }
+    }
+}

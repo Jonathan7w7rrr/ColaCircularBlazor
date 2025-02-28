@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\50255\\source\\repos\\ColaCircularBlazor1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07581B7F-1937-4DB9-9263-185A2A76E93F}|ColaCircularBlazor1.csproj|c:\\users\\50255\\source\\repos\\colacircularblazor1\\modelos\\colacircular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07581B7F-1937-4DB9-9263-185A2A76E93F}|ColaCircularBlazor1.csproj|solutionrelative:modelos\\colacircular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07581B7F-1937-4DB9-9263-185A2A76E93F}|ColaCircularBlazor1.csproj|c:\\users\\50255\\source\\repos\\colacircularblazor1\\pages\\colacircular.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07581B7F-1937-4DB9-9263-185A2A76E93F}|ColaCircularBlazor1.csproj|solutionrelative:pages\\colacircular.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07581B7F-1937-4DB9-9263-185A2A76E93F}|ColaCircularBlazor1.csproj|c:\\users\\50255\\source\\repos\\colacircularblazor1\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07581B7F-1937-4DB9-9263-185A2A76E93F}|ColaCircularBlazor1.csproj|solutionrelative:layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07581B7F-1937-4DB9-9263-185A2A76E93F}|ColaCircularBlazor1.csproj|c:\\users\\50255\\source\\repos\\colacircularblazor1\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07581B7F-1937-4DB9-9263-185A2A76E93F}|ColaCircularBlazor1.csproj|solutionrelative:pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07581B7F-1937-4DB9-9263-185A2A76E93F}|ColaCircularBlazor1.csproj|c:\\users\\50255\\source\\repos\\colacircularblazor1\\pagina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07581B7F-1937-4DB9-9263-185A2A76E93F}|ColaCircularBlazor1.csproj|solutionrelative:pagina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07581B7F-1937-4DB9-9263-185A2A76E93F}|ColaCircularBlazor1.csproj|c:\\users\\50255\\source\\repos\\colacircularblazor1\\colacircularblazor1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{07581B7F-1937-4DB9-9263-185A2A76E93F}|ColaCircularBlazor1.csproj|solutionrelative:colacircularblazor1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 258,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 11,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ColaCircularBlazor1",
+              "DocumentMoniker": "C:\\Users\\50255\\source\\repos\\ColaCircularBlazor1\\ColaCircularBlazor1.csproj",
+              "RelativeDocumentMoniker": "ColaCircularBlazor1.csproj",
+              "ToolTip": "C:\\Users\\50255\\source\\repos\\ColaCircularBlazor1\\ColaCircularBlazor1.csproj",
+              "RelativeToolTip": "ColaCircularBlazor1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-28T04:51:11.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ColaCircular.cs",
+              "DocumentMoniker": "C:\\Users\\50255\\source\\repos\\ColaCircularBlazor1\\Modelos\\ColaCircular.cs",
+              "RelativeDocumentMoniker": "Modelos\\ColaCircular.cs",
+              "ToolTip": "C:\\Users\\50255\\source\\repos\\ColaCircularBlazor1\\Modelos\\ColaCircular.cs",
+              "RelativeToolTip": "Modelos\\ColaCircular.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAcwDsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T04:53:24.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pagina.cs",
+              "DocumentMoniker": "C:\\Users\\50255\\source\\repos\\ColaCircularBlazor1\\Pagina.cs",
+              "RelativeDocumentMoniker": "Pagina.cs",
+              "ToolTip": "C:\\Users\\50255\\source\\repos\\ColaCircularBlazor1\\Pagina.cs",
+              "RelativeToolTip": "Pagina.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T04:54:38.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ColaCircular.razor",
+              "DocumentMoniker": "C:\\Users\\50255\\source\\repos\\ColaCircularBlazor1\\Pages\\ColaCircular.razor",
+              "RelativeDocumentMoniker": "Pages\\ColaCircular.razor",
+              "ToolTip": "C:\\Users\\50255\\source\\repos\\ColaCircularBlazor1\\Pages\\ColaCircular.razor",
+              "RelativeToolTip": "Pages\\ColaCircular.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-28T04:55:19.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\50255\\source\\repos\\ColaCircularBlazor1\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\50255\\source\\repos\\ColaCircularBlazor1\\Pages\\Home.razor",
+              "RelativeToolTip": "Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-28T05:09:31.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\50255\\source\\repos\\ColaCircularBlazor1\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\50255\\source\\repos\\ColaCircularBlazor1\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-28T05:25:55.054Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
